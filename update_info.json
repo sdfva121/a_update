@@ -1,4 +1,34 @@
 {
-    "latest_version": "9.0.0",
-    "update_exe_url": ""
+  "latest_version": "1.0.0",
+  "update_exe_url": "",
+  "package_files": {
+    "ffmpeg.exe": {
+      "version": "1.0.0",
+      "download_url": ""
+    },
+    "flac.exe": {
+      "version": "1.0.0",
+      "download_url": ""
+    },
+    "libwinpthread-1.dll": {
+      "version": "1.0.0",
+      "download_url": ""
+    },
+    "metaflac.exe": {
+      "version": "1.0.0",
+      "download_url": ""
+    },
+    "mp4decrypt.exe": {
+      "version": "1.0.0",
+      "download_url": ""
+    },
+    "N_m3u8DL-RE.exe": {
+      "version": "1.0.0",
+      "download_url": ""
+    },
+    "shaka-packager.exe": {
+      "version": "1.0.0",
+      "download_url": ""
+    }
+  }
 }
