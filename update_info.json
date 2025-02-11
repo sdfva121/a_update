@@ -1,34 +1,40 @@
 {
-  "latest_version": "1.0.0",
-  "update_exe_url": "",
-  "package_files": {
-    "ffmpeg.exe": {
-      "version": "1.0.0",
-      "download_url": ""
+    "latest_version": "1.0.0",
+    "software": {
+        "ffmpeg.exe": {
+            "version": "1.0.0",
+            "url": "https://github.com/sdfva121/a_update/releases/download/v1.0.0/ffmpeg.exe"
+        },
+        "flac.exe": {
+            "version": "1.0.0",
+            "url": "https://github.com/sdfva121/a_update/releases/download/v1.0.0/flac.exe"
+        },
+        "metaflac.exe": {
+            "version": "1.0.0",
+            "url": "https://github.com/sdfva121/a_update/releases/download/v1.0.0/metaflac.exe"
+        },
+        "libwinpthread-1.dll": {
+            "version": "1.0.0",
+            "url": "https://github.com/sdfva121/a_update/releases/download/v1.0.0/libwinpthread-1.dll"
+        },
+        "mp4decrypt.exe": {
+            "version": "1.0.0",
+            "url": "https://github.com/sdfva121/a_update/releases/download/v1.0.0/mp4decrypt.exe"
+        },
+        "N_m3u8DL-RE.exe": {
+            "version": "1.0.0",
+            "url": "https://github.com/sdfva121/a_update/releases/download/v1.0.0/N_m3u8DL-RE.exe"
+        },
+        "update.exe": {
+            "version": "0.0.0",
+            "url": ""
+        },
+        "shaka-packager.exe": {
+            "version": "1.0.0",
+            "url": "https://github.com/sdfva121/a_update/releases/download/v1.0.0/shaka-packager.exe"
+        }
     },
-    "flac.exe": {
-      "version": "1.0.0",
-      "download_url": ""
-    },
-    "libwinpthread-1.dll": {
-      "version": "1.0.0",
-      "download_url": ""
-    },
-    "metaflac.exe": {
-      "version": "1.0.0",
-      "download_url": ""
-    },
-    "mp4decrypt.exe": {
-      "version": "1.0.0",
-      "download_url": ""
-    },
-    "N_m3u8DL-RE.exe": {
-      "version": "1.0.0",
-      "download_url": ""
-    },
-    "shaka-packager.exe": {
-      "version": "1.0.0",
-      "download_url": ""
-    }
-  }
+    "auto_run_software": [
+        ""
+    ]
 }
