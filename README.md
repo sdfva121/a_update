@@ -1,1 +1,1 @@
-use private only
+only private use
